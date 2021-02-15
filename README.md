@@ -1,2 +1,1 @@
-# Credit_Card_Fraud_Detection
-Supervised Learning Model - Random Forest
+# Credit_Card_Fraud_Detection - Work in Progress - Improving the model
