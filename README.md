@@ -9,6 +9,7 @@
   * [Technologies Used](#technologies-used)
   * [Team](#team)
   * [Credits](#credits)
+  * [Acknowledgements](#Acknowledgements)
 
 ## Overview
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
@@ -42,7 +43,7 @@ pip install -r requirements.txt
 
 
 ## Team
-[![Pedro Patinha]()]() |
+[![Pedro Patinha](https://www.linkedin.com/in/pedromaiapatinha/)]() |
 
 ## Credits
 Thanks to kaggle and Machine Learning Group - ULB for making this challenge and dataset available for Machine Learning enthusiasts,
