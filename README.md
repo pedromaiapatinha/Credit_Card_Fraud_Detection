@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 
 ## Team
-[![Pedro Patinha](https://www.linkedin.com/in/pedromaiapatinha/)]() |
+[![Pedro Patinha](https://www.linkedin.com/in/pedromaiapatinha/)](https://www.linkedin.com/in/pedromaiapatinha/) |
 
 ## Credits
 Thanks to kaggle and Machine Learning Group - ULB for making this challenge and dataset available for Machine Learning enthusiasts,
