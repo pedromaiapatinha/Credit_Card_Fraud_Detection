@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 
 ## Team
-[![Pedro Patinha](<img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>)](https://www.linkedin.com/in/pedromaiapatinha/)
+[![Pedro Patinha](<a href="https://icons8.com/icon/447/linkedin">LinkedIn icon by Icons8</a>)](https://www.linkedin.com/in/pedromaiapatinha/)
 
 ## Credits
 Thanks to kaggle and Machine Learning Group - ULB for making this challenge and dataset available for Machine Learning enthusiasts,
